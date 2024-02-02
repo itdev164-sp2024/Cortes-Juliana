@@ -4,7 +4,6 @@ import { StaticImage } from "gatsby-plugin-image";
 
 import Layout from "../components/layout";
 import Seo from "../components/seo";
-import { siteMetadata } from "../../gatsby-config";
 
 const About = ({data}) => {
     const {name, company} = data.site.siteMetadata.contact
@@ -30,7 +29,7 @@ const About = ({data}) => {
     }
         export default About
 
-        export const query = graphql
+        export const query = graphql`
             query{
                 site{
                     siteMetadata{
@@ -41,3 +40,4 @@ const About = ({data}) => {
                     }
                 }
             }
+        `
