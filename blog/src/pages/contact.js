@@ -4,9 +4,9 @@ import { StaticImage } from "gatsby-plugin-image";
 
 import Layout from "../components/layout";
 import Seo from "../components/seo";
-import { siteMetadata } from "../../gatsby-config";
 
-const contact = ({data}) => {
+
+const Contact = ({data}) => {
     const {name, company,address} = data.site.siteMetadata.contact
     return (
         <Layout>
@@ -45,4 +45,4 @@ export const query = graphql`
             }
         }
     }
-    `
+   ` 
