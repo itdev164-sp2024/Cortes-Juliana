@@ -1,18 +1,18 @@
 var plugins = [{
       name: 'gatsby-plugin-image',
-      plugin: require('/Users/julianacortesramirez/Desktop/itdev164/Cortes-Juliana/blog/node_modules/gatsby-plugin-image/gatsby-ssr.js'),
+      plugin: require('/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/node_modules/gatsby-plugin-image/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
       name: 'gatsby-plugin-manifest',
-      plugin: require('/Users/julianacortesramirez/Desktop/itdev164/Cortes-Juliana/blog/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
+      plugin: require('/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/node_modules/gatsby-plugin-manifest/gatsby-ssr.js'),
       options: {"plugins":[],"name":"gatsby-starter-default","short_name":"starter","start_url":"/","background_color":"#663399","display":"minimal-ui","icon":"src/images/gatsby-icon.png","legacy":true,"theme_color_in_head":true,"cache_busting_mode":"query","crossOrigin":"anonymous","include_favicon":true,"cacheDigest":"4a9773549091c227cd2eb82ccd9c5e3a"},
     },{
       name: 'default-site-plugin',
-      plugin: require('/Users/julianacortesramirez/Desktop/itdev164/Cortes-Juliana/blog/gatsby-ssr.js'),
+      plugin: require('/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/gatsby-ssr.js'),
       options: {"plugins":[]},
     },{
       name: 'partytown',
-      plugin: require('/Users/julianacortesramirez/Desktop/itdev164/Cortes-Juliana/blog/node_modules/gatsby/dist/internal-plugins/partytown/gatsby-ssr.js'),
+      plugin: require('/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/node_modules/gatsby/dist/internal-plugins/partytown/gatsby-ssr.js'),
       options: {"plugins":[]},
     }]
 /* global plugins */
