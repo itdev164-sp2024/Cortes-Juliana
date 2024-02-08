@@ -12,6 +12,6 @@ exports.components = {
   "component---src-pages-page-2-js": preferDefault(require("/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/src/pages/page-2.js")),
   "component---src-pages-using-ssr-js": preferDefault(require("/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/src/pages/using-ssr.js")),
   "component---src-pages-using-typescript-tsx": preferDefault(require("/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/src/pages/using-typescript.tsx")),
-  "component---src-templates-using-dsg-js": preferDefault(require("/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/src/templates/using-dsg.js"))
+  "component---src-templates-blog-post-js": preferDefault(require("/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/src/templates/blog-post.js"))
 }
 
