@@ -1809,11 +1809,13 @@ function getForwards(collectedScripts) {
 exports.components = {
   "component---cache-dev-404-page-js": () => __webpack_require__.e(/*! import() | component---cache-dev-404-page-js */ "component---cache-dev-404-page-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../dev-404-page.js?export=default */ "./.cache/dev-404-page.js?export=default")),
   "component---src-pages-404-js": () => __webpack_require__.e(/*! import() | component---src-pages-404-js */ "component---src-pages-404-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/404.js?export=default */ "./src/pages/404.js?export=default")),
+  "component---src-pages-about-js": () => __webpack_require__.e(/*! import() | component---src-pages-about-js */ "component---src-pages-about-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/about.js?export=default */ "./src/pages/about.js?export=default")),
+  "component---src-pages-contact-js": () => __webpack_require__.e(/*! import() | component---src-pages-contact-js */ "component---src-pages-contact-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/contact.js?export=default */ "./src/pages/contact.js?export=default")),
   "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-js */ "component---src-pages-index-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=default */ "./src/pages/index.js?export=default")),
   "component---src-pages-page-2-js": () => __webpack_require__.e(/*! import() | component---src-pages-page-2-js */ "component---src-pages-page-2-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/page-2.js?export=default */ "./src/pages/page-2.js?export=default")),
   "component---src-pages-using-ssr-js": () => __webpack_require__.e(/*! import() | component---src-pages-using-ssr-js */ "component---src-pages-using-ssr-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/using-ssr.js?export=default */ "./src/pages/using-ssr.js?export=default")),
   "component---src-pages-using-typescript-tsx": () => __webpack_require__.e(/*! import() | component---src-pages-using-typescript-tsx */ "component---src-pages-using-typescript-tsx").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/using-typescript.tsx?export=default */ "./src/pages/using-typescript.tsx?export=default")),
-  "component---src-templates-using-dsg-js": () => __webpack_require__.e(/*! import() | component---src-templates-using-dsg-js */ "component---src-templates-using-dsg-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/templates/using-dsg.js?export=default */ "./src/templates/using-dsg.js?export=default"))
+  "component---src-templates-blog-post-js": () => __webpack_require__.e(/*! import() | component---src-templates-blog-post-js */ "component---src-templates-blog-post-js").then(__webpack_require__.t.bind(__webpack_require__, /*! ./../../../src/templates/blog-post.js?export=default */ "./src/templates/blog-post.js?export=default", 23))
 };
 
 exports.head = {
@@ -1821,8 +1823,7 @@ exports.head = {
   "component---src-pages-index-js": () => __webpack_require__.e(/*! import() | component---src-pages-index-jshead */ "component---src-pages-index-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/index.js?export=head */ "./src/pages/index.js?export=head")),
   "component---src-pages-page-2-js": () => __webpack_require__.e(/*! import() | component---src-pages-page-2-jshead */ "component---src-pages-page-2-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/page-2.js?export=head */ "./src/pages/page-2.js?export=head")),
   "component---src-pages-using-ssr-js": () => __webpack_require__.e(/*! import() | component---src-pages-using-ssr-jshead */ "component---src-pages-using-ssr-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/using-ssr.js?export=head */ "./src/pages/using-ssr.js?export=head")),
-  "component---src-pages-using-typescript-tsx": () => __webpack_require__.e(/*! import() | component---src-pages-using-typescript-tsxhead */ "component---src-pages-using-typescript-tsxhead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/using-typescript.tsx?export=head */ "./src/pages/using-typescript.tsx?export=head")),
-  "component---src-templates-using-dsg-js": () => __webpack_require__.e(/*! import() | component---src-templates-using-dsg-jshead */ "component---src-templates-using-dsg-jshead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/templates/using-dsg.js?export=head */ "./src/templates/using-dsg.js?export=head"))
+  "component---src-pages-using-typescript-tsx": () => __webpack_require__.e(/*! import() | component---src-pages-using-typescript-tsxhead */ "component---src-pages-using-typescript-tsxhead").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/using-typescript.tsx?export=head */ "./src/pages/using-typescript.tsx?export=head"))
 };
 
 /***/ }),
@@ -10143,24 +10144,24 @@ if (false) {} else {
 /***/ }),
 
 /***/ "react-dom/server":
-/*!********************************************************************************************************************!*\
-  !*** external "/Users/julianacortesramirez/Desktop/itdev164/Cortes-Juliana/blog/node_modules/react-dom/server.js" ***!
-  \********************************************************************************************************************/
+/*!****************************************************************************************************************************!*\
+  !*** external "/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/node_modules/react-dom/server.js" ***!
+  \****************************************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/julianacortesramirez/Desktop/itdev164/Cortes-Juliana/blog/node_modules/react-dom/server.js");
+module.exports = require("/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/node_modules/react-dom/server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!***************************************************************************************************************!*\
-  !*** external "/Users/julianacortesramirez/Desktop/itdev164/Cortes-Juliana/blog/node_modules/react/index.js" ***!
-  \***************************************************************************************************************/
+/*!***********************************************************************************************************************!*\
+  !*** external "/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/node_modules/react/index.js" ***!
+  \***********************************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/julianacortesramirez/Desktop/itdev164/Cortes-Juliana/blog/node_modules/react/index.js");
+module.exports = require("/Users/julianacortes/Desktop/itdev164/Cortes-Juliana/Cortes-Juliana/blog/node_modules/react/index.js");
 
 /***/ }),
 

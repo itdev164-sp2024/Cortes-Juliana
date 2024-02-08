@@ -1,1 +1,1 @@
-{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"pageContext":{}},"staticQueryHashes":["3649515864","63159454"],"slicesMap":{}}
+{"componentChunkName":"component---src-pages-index-js","path":"/","result":{"data":{"allContentfulBlogPost":{"edges":[{"node":{"id":"d3b47c87-b93b-52ef-b108-e054a45f4395","title":"First Post","slug":"first post"}}]}},"pageContext":{}},"staticQueryHashes":["3649515864","63159454"],"slicesMap":{}}

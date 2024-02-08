@@ -1099,7 +1099,7 @@ const IndexPage = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createEl
   style: {
     marginBottom: `var(--space-3)`
   },
-  __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/3512115391.json */ "./.cache/caches/gatsby-plugin-image/3512115391.json")
+  __imageData: __webpack_require__(/*! ./.cache/caches/gatsby-plugin-image/1601475009.json */ "./.cache/caches/gatsby-plugin-image/1601475009.json")
 }), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("h1", null, "Welcome to ", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("b", null, "Gatsby!")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("p", {
   className: _components_index_module_css__WEBPACK_IMPORTED_MODULE_4__.intro
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement("b", null, "Example pages:"), " ", samplePageLinks.map((link, i) => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement(react__WEBPACK_IMPORTED_MODULE_0__.Fragment, {
@@ -1144,9 +1144,9 @@ const Head = () => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0__.createElement
 
 /***/ }),
 
-/***/ "./.cache/caches/gatsby-plugin-image/3512115391.json":
+/***/ "./.cache/caches/gatsby-plugin-image/1601475009.json":
 /*!***********************************************************!*\
-  !*** ./.cache/caches/gatsby-plugin-image/3512115391.json ***!
+  !*** ./.cache/caches/gatsby-plugin-image/1601475009.json ***!
   \***********************************************************/
 /***/ ((module) => {
 
@@ -1173,7 +1173,7 @@ module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Gatsby De
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Gatsby Default Starter","description":"Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.","author":"@gatsbyjs"}}}}');
+module.exports = JSON.parse('{"data":{"site":{"siteMetadata":{"title":"Gatsby Default Starter","description":"Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.","author":"Juliana Cortes"}}}}');
 
 /***/ })
 
