@@ -1815,7 +1815,7 @@ exports.components = {
   "component---src-pages-page-2-js": () => __webpack_require__.e(/*! import() | component---src-pages-page-2-js */ "component---src-pages-page-2-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/page-2.js?export=default */ "./src/pages/page-2.js?export=default")),
   "component---src-pages-using-ssr-js": () => __webpack_require__.e(/*! import() | component---src-pages-using-ssr-js */ "component---src-pages-using-ssr-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/using-ssr.js?export=default */ "./src/pages/using-ssr.js?export=default")),
   "component---src-pages-using-typescript-tsx": () => __webpack_require__.e(/*! import() | component---src-pages-using-typescript-tsx */ "component---src-pages-using-typescript-tsx").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/pages/using-typescript.tsx?export=default */ "./src/pages/using-typescript.tsx?export=default")),
-  "component---src-templates-blog-post-js": () => __webpack_require__.e(/*! import() | component---src-templates-blog-post-js */ "component---src-templates-blog-post-js").then(__webpack_require__.t.bind(__webpack_require__, /*! ./../../../src/templates/blog-post.js?export=default */ "./src/templates/blog-post.js?export=default", 23))
+  "component---src-templates-blog-post-js": () => __webpack_require__.e(/*! import() | component---src-templates-blog-post-js */ "component---src-templates-blog-post-js").then(__webpack_require__.bind(__webpack_require__, /*! ./../../../src/templates/blog-post.js?export=default */ "./src/templates/blog-post.js?export=default"))
 };
 
 exports.head = {
