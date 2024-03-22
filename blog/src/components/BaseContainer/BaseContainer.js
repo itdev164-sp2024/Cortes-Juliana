@@ -6,3 +6,8 @@ export const BaseContainer = ({children, flex = false, ...rest}) => {
     let Component = flex ? Flex : Box
     return <Component {...rest}>{children}</Component>
 }
+BaseContainer.PropTypes = {
+    flex: PropTypes.bool,
+    as: PropTypes.string,
+    children: PropTypes.node.isRequired
+}
