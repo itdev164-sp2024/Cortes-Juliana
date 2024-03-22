@@ -12,7 +12,7 @@ require ('dotenv').config({
  */
 module.exports = {
   siteMetadata: {
-    title: `Blog in Contentful`,
+    title: `Blog in Contentful!!`,
     description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
     author: `Juliana Cortes`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
